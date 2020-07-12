@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Sanjula De Alwis | Software Engineering Undergraduate with a keen interest in Information technology and completing further academic studies in Computer Science
+I am Sanjula De Alwis | Software Engineering Undergraduate with a keen interest in Information technology and completing further academic studies in Computer Science.
 <!--
 **SanjulaD/SanjulaD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
