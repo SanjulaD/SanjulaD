@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Sanjula De Alwis | Software Engineering Undergraduate with a keen interest in Information technology and completing further academic studies in Computer Science.
+I am Sanjula De Alwis | Senior Software Engineer @rootcode. I specialize in full stack development and have expertise in React, Next.js, Nodejs, and Ruby. I am always looking to expand my knowledge and skills to make a difference through my work.
 <!--
 **SanjulaD/SanjulaD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
