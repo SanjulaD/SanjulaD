@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I am Sanjula De Alwis | Senior Software Engineer @rootcode. I specialize in full stack development and have expertise in React, Next.js, Nodejs, and Ruby. I am always looking to expand my knowledge and skills to make a difference through my work.
+Senior Full Stack Software Engineer | Expert in React, React Native, Node.js, Ruby, and AI-Driven Solutions | Experienced in Leading Cross-Functional Teams
+
 <!--
 **SanjulaD/SanjulaD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
